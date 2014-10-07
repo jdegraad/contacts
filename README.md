@@ -1,5 +1,7 @@
 Contact List - A CLI App
 
+Some change
+
 Introduction
 
 Goal: Build a ruby command line application to help users manage their contacts through a Request-Response interface. This means that you will be issuing commands like:
